@@ -4,6 +4,8 @@ This project is a full-stack web application that leverages AI to automatically 
 
 Developed by Sanat Kulkarni.
 
+DEMO VIDEO: https://drive.google.com/file/d/1rKK6UNsVo0a5dQ0R1NxA9_CZ1L1z5lIp/view?usp=sharing
+
 # Key Features
 
 AI-Driven Course Structuring: Utilizes Google Gemini AI to generate a logical course structure including chapter titles, summaries, and estimated durations based on user inputs (topic, difficulty, length).
