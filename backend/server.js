@@ -11,8 +11,14 @@ const app = express();
 //? call our Database function
 connectDB();
 
-// using Middlewares 🥷🏼
-app.use(cors());
+// Configure CORS with options
+app.use(cors({
+  origin: '*', // Allow all origins
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  credentials: true
+}));
+
 app.use(express.json());
 
 // Routes

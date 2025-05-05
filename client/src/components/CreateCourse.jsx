@@ -140,7 +140,6 @@ const CreateCourse = () => {
     );
   }
 
-  // Initial form JSX remains the same
   return (
     <div className="p-6 max-w-2xl mx-auto">
       <div className="bg-gradient-to-r from-blue-600 to-blue-800 rounded-lg shadow-lg p-8 mb-8">
