@@ -102,7 +102,7 @@ To get a local copy up and running, follow these simple steps.
 
 4.  Open your browser and navigate to `http://localhost:5173` (or the port Vite is running on).
 
-## 📖 Usage
+## Usage
 
 1.  **Sign Up / Sign In:** Create a new account or log in with existing credentials.
 2.  **Create a Course:**
