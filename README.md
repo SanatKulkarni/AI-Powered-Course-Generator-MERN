@@ -1,5 +1,7 @@
 # AURA-LMS: Smart Course Generation and Learning Platform 
 
+DEMO VIDEO : https://youtu.be/LSknhxC0dn4
+
 AURA-LMS is an innovative learning platform designed to make education more accessible, efficient, and personalized. It leverages Generative AI to automatically create comprehensive courses, provide interactive coding environments, and offer AI-driven interview practice, empowering users to learn smarter and faster.
 
 ![Screenshot 2025-05-20 214648](https://github.com/user-attachments/assets/e9a38173-c4da-434f-91d6-00d2332e5614)
