@@ -79,7 +79,7 @@ To get a local copy up and running, follow these simple steps.
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_very_strong_jwt_secret
     GOOGLE_API_KEY=your_google_generative_ai_api_key
-    # YOUTUBE_API_KEY=your_youtube_data_api_key (if used directly)
+    # YOUTUBE_API_KEY=your_youtube_data_api_key 
     PORT=5000 # Or your preferred port
     ```
     Start the backend server:
